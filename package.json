@@ -1,5 +1,5 @@
 {
-  "name": "ts-node-express-simple",
+  "name": "clearbit-back",
   "version": "1.0.0",
   "description": "",
   "main": "app/index.js",
@@ -18,7 +18,7 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/dvd90/ts-node-express-simple#readme",
+  "homepage": "https://github.com/dvd90/clearbit-back#readme",
   "dependencies": {
     "axios": "^0.26.1",
     "cors": "^2.8.5",
